@@ -45,20 +45,7 @@ The project focuses on providing a secure and user-friendly system for managing 
 * Backend: Node.js, Express.js
 * Database: MongoDB
 * Additional Libraries/Tools: Node Mailer (for sending emails), bcrypt (for password hashing), etc.
-## Installation:
 
-To run the project locally:
-
-1. Clone the repository: git clone https://github.com/Vijayarajvijay/Password-Reset-FE
-Back End code :
-https://github.com/Vijayarajvijay/Password-Reset-BE
-
-2. Navigate to the project directory and install 
-dependencies: npm install
-
-3. Set up environment variables (such as database connection strings, email configurations, etc.).
-
-4. Start the development server: `npm start`
 ## Usage:
 
 Users can navigate through the signup and login pages to create an account or access their existing account. In case of a forgotten password, they can request a password reset via the provided email functionality and securely set a new password.
